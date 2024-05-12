@@ -5,6 +5,8 @@
     "csv": ">=1.5.0",
     "StringIO": ">=2.0.0",
     "mysql-connector-python": ">=8.0.0",
-    "datetime": ">=2.24.0"
+    "datetime": ">=2.24.0",
+    "schedule": ">=1.1.0",
+    "smtplib": ">=3.4.0"
   }
 }
