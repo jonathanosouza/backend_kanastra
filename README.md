@@ -28,6 +28,12 @@
     ```sh
     python server.py
     ```
+### TEST 
+
+6. Start TEST:
+    ```sh
+    pytest
+    ```
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
